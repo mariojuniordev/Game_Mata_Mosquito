@@ -1,8 +1,8 @@
 # Game_Mata_Mosquito
 Este repositório é destinado a um jogo desenvolvido em JavaScript Puro!
 
-##Tecnologias Utilizadas
+<h2>Tecnologias Utilizadas</h2>
 
-HTML5
-CSS3
-Vanilla JavaScript
+<p>HTML5</p>
+<p>CSS3</p>
+<p>Vanilla JavaScript</p>
